@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RealTime-ChatApp/static/css/main.9d9cb1de.css",
+    "main.js": "/RealTime-ChatApp/static/js/main.7d7e59ad.js",
+    "static/js/787.cda612ba.chunk.js": "/RealTime-ChatApp/static/js/787.cda612ba.chunk.js",
+    "index.html": "/RealTime-ChatApp/index.html",
+    "main.9d9cb1de.css.map": "/RealTime-ChatApp/static/css/main.9d9cb1de.css.map",
+    "main.7d7e59ad.js.map": "/RealTime-ChatApp/static/js/main.7d7e59ad.js.map",
+    "787.cda612ba.chunk.js.map": "/RealTime-ChatApp/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d9cb1de.css",
+    "static/js/main.7d7e59ad.js"
+  ]
+}
